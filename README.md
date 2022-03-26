@@ -7,7 +7,7 @@ A junior full stack developer from Venezuela, based in Santa Fe, Argentina
 
 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:fernandovale3004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/fernando27v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando27v)
 
 ## Operating System & Tools
 
