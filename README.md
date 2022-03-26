@@ -35,4 +35,4 @@ I was lucky enough to learn to program in 2018 with the Pascal language, from th
 
 Proyect-Videogames 🕹️
 http://project-videogames.vercel.app/
-<img src='{https://i.imgur.com/BV9nvqu.jpg}'/>
+<img src="https://i.imgur.com/BV9nvqu.jpg"/>
