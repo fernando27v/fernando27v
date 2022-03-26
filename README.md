@@ -37,7 +37,7 @@ I was lucky enough to learn to program in 2018 with the Pascal language, from th
 <p></p>
 
 - Landing
-<img style={{width:"100px"}} src="https://i.imgur.com/BV9nvqu.jpg"/>
+<img style={width:"100px"} src="https://i.imgur.com/BV9nvqu.jpg"/>
 
 - Home
 <img src="https://i.imgur.com/MViw16c.jpg"/>
