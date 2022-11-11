@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fernando Vale
 
-A junior full stack developer from Venezuela, based in Santa Fe, Argentina
+A junior full stack developer from Venezuela, based in Buenos Aires, Argentina
 
 ## About Me
 
